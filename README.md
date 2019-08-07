@@ -1,3 +1,4 @@
 # ENVECON-118
 Environmental Economics 118
-[Link to notebooks for UC Berkeley users](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=ENVECON-118&branch=master&path=)
+
+[Link to notebooks for UC Berkeley users](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FENVECON-118&urlpath=tree%2FENVECON-118%2FSummer-19&branch=master)
